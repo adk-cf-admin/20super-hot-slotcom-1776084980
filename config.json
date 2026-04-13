@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#230404",
+            "lang-select-color": "#222829",
+            "bg-light": "#230404",
+            "welcome-bonus-bg": "#230404",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#120202",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#D0222C",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F6AD32",
+            "yellow": "#D0222C",
+            "yellow-button": "#F6AD32",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#D0222C",
+            "casino-cards": "#230404",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#D0222C",
+            "providers-back": "#230404",
+            "faq-label": "#230404",
+            "bg-footer": "#230404",
+            "copyright": "#e7e7d5",
+            "starColor": "#D0222C",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6057"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6059",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "20 Super Hot Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6060",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "20 Super Hot"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "20 Super Hot",
+                    "title": "20 Super Hot Slot: Up to x1000 per line, 20 fixed paylines and demo play",
+                    "description": "Discover 20 Super Hot, a classic fruit slot with 20 fixed paylines, low volatility, an x2 Gamble feature, and win potential up to x1000 per payline. Explore the paytable, try the demo mode, and enjoy a clear and comfortable classic slot experience.",
+                    "canonical": "20super-hot-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6061",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "20super-hot-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6062"
+                },
+                "hero": {
+                    "title": "20 Super Hot — 20 Paylines, x2 Gamble and Wins up to x1000",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6063",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6064",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Classic fruit style, clear from first spin.",
+                        "Twenty fixed paylines create a smooth pace.",
+                        "Low volatility suits longer playing sessions.",
+                        "Gamble feature adds excitement after wins.",
+                        "Simple interface works for all players.",
+                        "Frequent small payouts support steady gameplay.",
+                        "Great on desktop and mobile devices."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "20 Super Hot App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6065",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "20 Super Hot App",
+                    "mobileGooglePlayImageTitle": "20 Super Hot App",
+                    "mobileIosImageTitle": "20 Super Hot App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About 20 Super Hot",
+                        "description1": "20 Super Hot is a classic fruit slot built around simple mechanics, recognizable symbols, and a comfortable gameplay rhythm.",
+                        "items": [],
+                        "description2": "Its core formula combines 5 reels, 20 fixed paylines, and a balanced pace with frequent smaller wins and occasional stronger line hits. The game is especially attractive for players who enjoy traditional slot structure without overloaded bonus rounds or complicated rules. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6066",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "One of the main highlights of 20 Super Hot is the Gamble feature, which lets players risk a win for a higher payout. The slot is easy to understand from the very first spins, making it beginner-friendly and smooth to play. Thanks to its classic design and steady flow, it works well for both quick sessions and longer playtime."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "20 Super Hot — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot Slot Features and Core Specs\n<\/h3>\n<p>\n20 Super Hot is a classic fruit-themed slot designed for players who prefer clear rules and a steady gameplay rhythm. The game uses a traditional 5x3 layout with 20 fixed paylines, so there is no need to manage active lines manually. It is commonly seen as a low-volatility slot, which makes it comfortable for longer and more controlled sessions. The core focus is on line wins, the Wild symbol, and the Gamble feature available after a successful spin.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Characteristics\n<\/h4>\n<ul>\n            <li>• Provider: Amusnet<\/li>\n            <li>• Slot type: classic video slot<\/li>\n            <li>• Theme: fruits and retro machine style<\/li>\n            <li>• Layout: 5 reels and 3 rows<\/li>\n            <li>• Paylines: 20 fixed paylines<\/li>\n            <li>• Volatility: low<\/li>\n            <li>• RTP: around 95.79%<\/li>\n            <li>• Wild symbol: Seven<\/li>\n            <li>• Special mechanic: Gamble after wins<\/li>\n            <li>• Extra options: Autoplay and demo mode<\/li>\n            <li>• Best for: beginners, classic slot fans, steady sessions<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot — Where You Can Play\n<\/h3>\n<p>\n20 Super Hot is usually available on licensed online platforms that feature classic video slots with fixed paylines. In most cases, the slot can be launched directly in a browser and also played smoothly on mobile devices without downloading a separate app. Before starting, it is useful to check whether the platform offers a demo mode, a clear paytable, and a detailed game description. It is also helpful to look for classic-slot bonus offers and convenient gameplay options such as quick launch or autoplay. For the best experience, players should choose platforms with an easy interface, stable performance, and transparent betting limits.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot — Demo Mode and Safe Practice\n<\/h3>\n<p>\nThe demo mode in 20 Super Hot lets players launch the slot without risking their balance and explore its mechanics in a relaxed way. It is a convenient method to understand how the 20 fixed paylines work, how the Wild symbol behaves, and when the Gamble option becomes available. In demo play, you can test different bet levels, observe the frequency of base wins, and get used to the overall game pace. This format is especially useful for beginners and for players who want to evaluate the slot before switching to real-money play.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot Payout Table and Symbol Values\n<\/h3>\n<p>\nIn 20 Super Hot, line wins are the main focus, so the payout table is the fastest way to understand which symbols carry the most value. The strongest symbol is usually Seven, which also works as the Wild. The rest of the payouts follow a traditional fruit-slot structure, where higher-value symbols bring better rewards for full line combinations.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #D0222C;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Winning Combination<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout Potential<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Seven (Wild)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x1000 of the line bet<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Seven (Wild)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">4 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">High payout<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Seven (Wild)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Solid base reward<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Lucky Star \/ premium special symbol<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">High-value win<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Water&shy;melon \/ Bell<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Above-average payout<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Orange \/ Plum \/ Grapes<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Base payout level<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Lower fruit symbols<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3–4 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Smaller frequent wins<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot — How to Win Based on Real Play Experience\n<\/h3>\n<p>\nWinning in 20 Super Hot is less about chasing a hidden trick and more about understanding how the slot behaves. Real player experience shows that the best approach is usually calm and controlled: use a moderate bet, play through a consistent series of spins, and treat the Gamble feature carefully. Since this is a classic low-volatility slot, it tends to produce smaller and medium-sized wins more often than rare explosive hits. Players who get the most stable results often avoid chasing instant big payouts and instead focus on rhythm and discipline. A comfortable bet size is important because it allows the balance to survive longer sessions without pressure. Another common lesson from real play is to stop after a strong run instead of trying to force one more big hit. Experienced players also tend to use Gamble selectively, for example on a smaller or medium win, rather than risking every payout automatically.\n<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "20 Super Hot — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot — Bonuses and Special Offers\n<\/h3>\n<p>\nIn the classic version of 20 Super Hot, the main in-game focus is not on complex bonus rounds but on clear line wins and the ability to boost a result through the Gamble feature. That is exactly why many players choose it: the slot keeps the gameplay simple and direct. Built-in free spins are usually not part of the classic version, but the game often appears in external promotions, tournaments, and welcome packages. It fits especially well into offers made for retro machines and fruit slots. Bonuses such as cashback, reload offers, and promotional free spins are often useful here because they support longer sessions. The most recognizable built-in bonus of 20 Super Hot remains the Gamble option, since it directly affects the payout already won. Overall, the bonus side of this slot is best understood as a mix of one simple in-game booster and several external promotional formats.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGamble — the main built-in bonus\n<\/h4>\n<ul>\n            <li>• x2 win boost for each successful step. For example, a 20-credit win can become 40, then 80 if the choice is correct. This is the most iconic bonus element of 20 Super Hot.<\/li>\n            <li>• Best suited for small and medium wins. In real play, many users apply Gamble selectively instead of risking every payout.<\/li>\n            <li>• Fast and easy to understand. The feature adds excitement without making the classic gameplay complicated.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWelcome package for classic slots\n<\/h4>\n<ul>\n            <li>• Example: 100% first deposit bonus up to 100 EUR + 50 free spins. This type of package helps extend real-money testing of 20 Super Hot.<\/li>\n            <li>• Useful for low-volatility slot sessions. Extra balance gives more room to understand the payout rhythm.<\/li>\n            <li>• Great for a first longer session. It helps compare demo impressions with live play.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nReload bonuses\n<\/h4>\n<ul>\n            <li>• Example: 50% reload bonus up to 50 EUR. This is a common way to support repeat sessions.<\/li>\n            <li>• Works well with the steady pace of 20 Super Hot. Extra funds make it easier to keep a stable bet size.<\/li>\n            <li>• Good for short scheduled sessions. Players can plan several controlled returns to the slot.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCashback\n<\/h4>\n<ul>\n            <li>• Example: 5%–15% cashback on net weekly losses. This is especially valuable in a slot without a large internal bonus round.<\/li>\n            <li>• Reduces pressure on the bankroll. Even after an unlucky streak, part of the loss may return.<\/li>\n            <li>• Supports a disciplined approach. It can help players stay measured instead of chasing losses.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTournaments and leaderboards\n<\/h4>\n<ul>\n            <li>• Example: prize pools from 500 to 5000 EUR. Sometimes 20 Super Hot is included in competitions based on win totals or activity.<\/li>\n            <li>• Adds a competitive layer to classic gameplay. This is attractive for players who want more than routine spins.<\/li>\n            <li>• Creates extra value beyond normal play. Even moderate wins can contribute to a tournament result.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromotional free spins\n<\/h4>\n<ul>\n            <li>• Example: 20, 30, or 50 free spins on classic slots. The slot usually has no built-in free-spin round, so promotions can fill that gap.<\/li>\n            <li>• Good for bonus-funded testing. Players can evaluate hit frequency without putting full pressure on the main deposit.<\/li>\n            <li>• Convenient for new users. It is an easy way to feel the pace of all 20 paylines.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMystery Jackpot or extra network prizes\n<\/h4>\n<ul>\n            <li>• Some versions may include random extra prizes. For example, a player may become eligible for an additional cash reward on top of standard gameplay.<\/li>\n            <li>• Does not change the classic core of the slot. 20 Super Hot still remains a straightforward fruit machine.<\/li>\n            <li>• Adds a rare surprise factor. This is a nice extra for players who enjoy classic structure with a chance for something unexpected.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot Free Spins and Multipliers\n<\/h3>\n<p>\nIt is important to understand the bonus structure of 20 Super Hot correctly. The classic version of the slot usually does not include a built-in free spins round and does not use a permanent global multiplier for every spin. The main strength of the game is concentrated in line wins, the Wild symbol, and the Gamble feature, which can increase an already completed payout. Because of that, players should separate the internal slot mechanics from external promotions where free spins may be offered independently.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #D0222C;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Feature<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Availability in 20 Super Hot<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Player Benefit<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Built-in free spins<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually not included<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">The classic version is not centered around a bonus round<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Permanent spin multiplier<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually not included<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Wins are paid through paylines without a global boost<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Gamble after a win<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Yes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Can increase a payout, commonly in x2 steps<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Promo&shy;tional free spins<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Possible externally<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Useful for testing the slot within a promotion<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Mystery Jackpot \/ network prizes<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Available in some versions<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Adds a rare extra win layer<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Wild combina&shy;tion boost<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Yes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Helps complete stronger line payouts<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot — How to Play\n<\/h3>\n<p>\nPlaying 20 Super Hot is simple because the slot follows a classic structure and avoids overloaded mechanics. You do not need to manage the number of paylines manually, since all 20 lines are fixed and active in every spin. The main goal is to choose a comfortable bet, launch spins, track line combinations, and optionally use Gamble after a win.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 1. Choose your bet size\n<\/h4>\n<ul>\n            <li>• Decide on a comfortable coin value or total bet amount.<\/li>\n            <li>• It is better to start with a level that allows your bankroll to handle a longer spin session.<\/li>\n            <li>• In 20 Super Hot, many players prefer a stable bet rather than constant changes.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 2. Check the paylines\n<\/h4>\n<ul>\n            <li>• All 20 paylines are usually fixed and active by default.<\/li>\n            <li>• This simplifies the gameplay and makes the structure easier to follow.<\/li>\n            <li>• You do not need to buy or switch on extra lines before spinning.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 3. Start spinning\n<\/h4>\n<ul>\n            <li>• Press Spin for a single round or use Autoplay for a longer sequence.<\/li>\n            <li>• Watch how matching symbols form from left to right across active paylines.<\/li>\n            <li>• The slot runs quickly, so the playing rhythm is easy to manage.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 4. Review your win\n<\/h4>\n<ul>\n            <li>• The main rewards come from matching symbols on paylines.<\/li>\n            <li>• The strongest symbol is Seven, which is especially important for major line hits.<\/li>\n            <li>• Smaller wins appear more often here than rare maximum payouts.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 5. Use Gamble if you want\n<\/h4>\n<ul>\n            <li>• After a winning spin, the slot may offer a chance to risk the payout for a bigger result.<\/li>\n            <li>• This feature is optional and should be used with control.<\/li>\n            <li>• Many players prefer to apply Gamble selectively instead of after every win.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot — Useful Playing Tips\n<\/h3>\n<p>\n20 Super Hot performs best in calm and disciplined sessions. This is a slot where rhythm and distance usually matter more than trying to force a sudden big result. Once you take into account its classic structure, low volatility, and Gamble option, the game becomes much easier to manage.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 1. Use a bet size you can comfortably hold\n<\/h4>\n<ul>\n            <li>• Choose a bet that lets your bankroll survive at least 50–100 spins without pressure.<\/li>\n            <li>• In 20 Super Hot, stability is usually more useful than aggressive bet increases.<\/li>\n            <li>• A steady balance helps reveal the slot’s frequent smaller payouts.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 2. Test the slot in demo first\n<\/h4>\n<ul>\n            <li>• Demo mode helps you understand the pace, hit frequency, and comfortable stake level.<\/li>\n            <li>• This is especially useful before the first real-money session.<\/li>\n            <li>• After testing, it becomes easier to decide whether this classic format suits you.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 3. Do not overuse Gamble\n<\/h4>\n<ul>\n            <li>• Gamble looks simple, but frequent use can raise risk very quickly.<\/li>\n            <li>• It is better to choose selective moments instead of doubling every win automatically.<\/li>\n            <li>• This approach helps maintain better bankroll control over time.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 4. Do not expect a complex bonus round\n<\/h4>\n<ul>\n            <li>• 20 Super Hot is about line wins, not long bonus-feature gameplay.<\/li>\n            <li>• When expectations match the actual structure, decisions become more realistic.<\/li>\n            <li>• This reduces impulsive play and supports a steadier session flow.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 5. Lock in strong winning runs\n<\/h4>\n<ul>\n            <li>• After a good streak, it is smart to protect part of the result.<\/li>\n            <li>• Many players lose profit by instantly trying to push a win much further.<\/li>\n            <li>• Knowing when to stop is often more valuable than chasing the perfect spin.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n20 Super Hot — Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nIn 20 Super Hot, bankroll loss usually comes not from the slot itself but from poor session behavior. The classic structure can create a false sense of total control, which often leads players to raise bets too quickly or overuse Gamble. When these common mistakes are understood in advance, the slot becomes much easier to handle in a balanced way.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 1. Starting with bets that are too high\n<\/h4>\n<ul>\n            <li>• The balance can disappear before the slot has time to reveal its normal rhythm.<\/li>\n            <li>• This is especially inefficient in a low-volatility format.<\/li>\n            <li>• It is much smarter to enter gradually and keep enough room for a full session.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 2. Using Gamble after every win\n<\/h4>\n<ul>\n            <li>• Even a strong session can end at zero if every payout is constantly put at risk.<\/li>\n            <li>• Gamble should strengthen selective moments, not replace your basic approach.<\/li>\n            <li>• Overusing this feature is one of the most common bankroll killers.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 3. Chasing losses\n<\/h4>\n<ul>\n            <li>• After a weak streak, many players suddenly increase the bet to recover quickly.<\/li>\n            <li>• In classic slots, that usually speeds up the drop instead of fixing it.<\/li>\n            <li>• A better move is to pause and return to a pre-planned limit.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 4. Not understanding the slot structure\n<\/h4>\n<ul>\n            <li>• 20 Super Hot does not rely on a built-in free spins round as a primary bonus feature.<\/li>\n            <li>• Expecting modern video-slot behavior often leads to chaotic decisions.<\/li>\n            <li>• Before playing, it is better to remember that this slot is about paylines, Wild, and Gamble.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 5. Playing without session limits\n<\/h4>\n<ul>\n            <li>• Without time and bankroll limits, players often spin automatically without tracking real results.<\/li>\n            <li>• This is especially risky in fast-paced slot sessions.<\/li>\n            <li>• A clear deposit cap and session length limit reduce the chance of a full bankroll drain.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 6. Ignoring demo mode\n<\/h4>\n<ul>\n            <li>• Beginners often go straight to real-money play without learning the slot first.<\/li>\n            <li>• As a result, the first mistakes happen with actual balance instead of free credits.<\/li>\n            <li>• Even a short demo session can prevent unnecessary losses at the start.<\/li>\n<\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do I need to activate paylines manually?",
+                            "answer": "No, paylines in 20 Super Hot are usually fixed. That means all 20 lines are already involved in every spin, and the player mainly controls the bet size."
+                        },
+                        {
+                            "title": "Does fast mode or Autoplay change the outcome?",
+                            "answer": "No, animation speed does not affect the mathematical behavior of the slot. Fast mode only changes session pace and convenience."
+                        },
+                        {
+                            "title": "Can 20 Super Hot be considered beginner-friendly?",
+                            "answer": "Yes, it is one of those slots that can be understood within minutes. It avoids overloaded bonus systems and keeps the focus on basic combinations and payout logic."
+                        },
+                        {
+                            "title": "What matters more here: bet size or session length?",
+                            "answer": "In 20 Super Hot, a comfortable session length and stable betting style are often more important. Constantly changing the stake can make the rhythm harder to read."
+                        },
+                        {
+                            "title": "Is it useful to change the bet frequently during play?",
+                            "answer": "Usually not, especially if the goal is a calm and controlled session. Sharp bet changes are more often driven by emotion than by practical benefit."
+                        },
+                        {
+                            "title": "Is the paytable important before starting?",
+                            "answer": "Yes, especially in a classic slot. It quickly shows which symbols are truly valuable and why some combinations matter more than others."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

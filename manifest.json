@@ -1,0 +1,19 @@
+{
+  "name": "20 Super Hot",
+  "short_name": "20 Super Hot",
+  "theme_color": "",
+  "background_color": "#230404",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1776082674-20-super-hot.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
